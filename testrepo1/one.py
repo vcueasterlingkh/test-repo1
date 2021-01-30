@@ -1,8 +1,10 @@
 
 def add_two(one, two):
+    """Adds two values together and returns it."""
     return one + two
 
 def add_three(one, two, three):
+    """Adds three values together and returns it."""
     return one + two + three
 
 if __name__ == "__main__":
