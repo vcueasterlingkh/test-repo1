@@ -2,7 +2,7 @@
 from testrepo1 import one
 
 class TestClass:
-"""This is some class for testing the things."""
+    """This is some class for testing the things."""
 
     @staticmethod
     def test_add_two_3_4():
