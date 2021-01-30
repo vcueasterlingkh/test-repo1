@@ -1,4 +1,4 @@
-from test-repo1 import one
+from testrepo1 import one
 
 
 class TestClass:
