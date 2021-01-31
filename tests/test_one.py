@@ -1,5 +1,7 @@
 """Test cases are important."""
 
+
+import pathfixer
 from testrepo1 import one
 
 
