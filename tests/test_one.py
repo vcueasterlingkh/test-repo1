@@ -16,4 +16,4 @@ def test_add_three_3_4_5():
 
 def test_add_three_1_2_3():
     """Tests add three values together and returns the values."""
-    assert one.add_three(1,2,3) == 6
+    assert one.add_three(1, 2, 3) == 6
